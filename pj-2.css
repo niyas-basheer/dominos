@@ -1,0 +1,237 @@
+*{
+    margin: 0;
+}
+.top{
+    
+    width:100%;
+    background-color: rgb(0, 102, 167);
+    height: 45px;
+}
+.text{
+    float: right;
+    color:rgb(255, 255, 255);
+    font-size:  x-small;
+    font-family: proxima-nova, sans-serif;
+    margin-right: 53px;
+    font-style: normal;
+    cursor: pointer;
+    
+}
+.text-1{
+    color: rgb(85, 204, 246);
+    font-size: x-small;
+    margin-right: 60px;
+    float: right;
+    font-style: normal;
+    cursor: pointer;
+   
+    
+}
+.txt{
+    float: right;
+    margin-top: 10px;
+}
+.yy{
+    width: 30px;
+    height: 30px;
+    margin-left: 1180px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.img2{
+    width: 350px;
+    height: 50px;
+    margin-top: 100px;
+    margin-left: 75px;
+}
+.txt2{
+font-size: 1.3rem;
+    color: rgb(106, 103, 110);
+    line-height: 2rem;
+    display: block;
+    width: 80%;
+    font-family:  proxima-nova, sans-serif;
+    font-style: normal;
+    margin-left: 75px;
+    
+}
+.txt3{
+    font-size: 1.3rem;
+    color: rgb(106, 103, 110);
+    line-height: 2rem;
+    display: block;
+    width: 80%;
+    font-family:  proxima-nova, sans-serif;
+    font-style: normal;
+    margin-left: 75px;
+    padding-bottom: 50px;
+}
+.radio1{
+    font-family:  proxima-nova, sans-serif;
+    color: rgb(0, 102, 167);
+    font-weight: bold;
+    
+    margin-left: 70px;
+}
+.radio{
+    font-family:  proxima-nova, sans-serif;
+    color: rgb(0, 102, 167);
+    font-weight: bold; 
+}
+.middle{
+    background-color: rgb(243, 243, 243);
+    height: px;
+}
+.mid{
+   float: right;
+width: 650px;
+cursor: pointer;
+}
+.mid1{
+    float: right;
+  width: 650px;
+  margin-top: 70px;
+  
+ }
+.address{
+    font-family:  proxima-nova, sans-serif;
+    border: none;
+    width: 350px;
+    height: 50px;
+    
+    font-size: medium;
+    font-style: normal;
+    font-weight: bold;
+    align-items: center;
+    margin-left: 65px;
+    margin-top: 20px;
+}
+.location{
+    width:120px ;
+    height: 40px;
+    background-color: rgb(0, 197, 0);
+    color: aliceblue;
+    border-color:rgb(0, 197, 0) ;
+    
+
+}
+.img-3{
+   
+    cursor: pointer;
+  width: 650px;
+  
+ 
+}
+.mid2{
+    background-color: rgb(243, 243, 243);
+    height: 375px;
+   
+}
+.img-4{
+    cursor: pointer;
+        height: 112px;
+        width: 689px;
+        margin-bottom: 20px;
+}
+.txt5{
+    
+    font-size: 1rem;
+    color: rgb(95, 136, 163);
+    font-weight: 600;
+    font-family: proxima-nova, sans-serif;
+    
+    margin-left:115px;
+}
+.img6{
+    width: 10rem;
+    height: 6rem;
+    margin-top: 10px;
+    margin-left:115px;
+    border-color: black;
+    cursor: pointer;
+}
+.tb9{
+    margin-bottom: 50px;
+}
+.bottam{
+    background-color: rgb(34, 46, 58);
+}
+.tb-1-0{
+    color: rgb(131, 154, 177);
+    font-size: smaller;
+    font-family: proxima-nova, sans-serif;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    cursor: pointer;
+    
+    
+}
+
+    
+    
+
+.tb1-2{
+    margin-left: 20px;
+   
+}
+.img-n{
+    margin-top: 50px;
+    margin-left: 30px;
+    cursor: pointer;
+    
+}
+.tb-mn{
+    width: 100%;
+    display: flex;    
+}
+.tb-ba{
+    margin-top: -3rem;
+    margin-left: 30rem;
+    width: 100%;
+    /* float: right; */
+}
+.tb-bb{
+    width: 8.6rem;
+    height: 2.5rem;
+    cursor: pointer;
+    
+}
+.tx2{
+    color: rgb(131, 154, 177);
+    font-size:medium;
+    font-family: proxima-nova, sans-serif;
+    
+    
+}
+.td1{
+    width: 0px;
+    padding-right: 20px;
+}
+.td2{
+   padding-top: 10px;
+}
+.i1{
+    color: rgb(131, 154, 177);
+    font-size:small;
+    font-family: proxima-nova, sans-serif;
+    padding-bottom:30px;
+    padding: 1.4em;
+    margin-left: 450px;
+    
+    
+    
+}
+
+.b{
+    background-color: rgb(34, 46, 58);
+    border-top: 1px dotted rgb(82, 98, 116);
+    height: 50px;
+}
+.radio1 span{
+    border-radius: .3rem;
+}
+.rt1{
+    font-family: proxima-nova, sans-serif;
+    font-style: normal;
+    cursor: pointer;
+}
